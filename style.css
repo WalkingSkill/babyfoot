@@ -100,8 +100,8 @@ body {
 }
 
 .fcgb .rank {
-  background-color: #EABF4F;
-  color: #4B4452;
+  background-color: #4B4452;
+  color: white;
 }
 .fcgb.win .score {
   color: #c00048;
