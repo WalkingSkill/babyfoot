@@ -23,7 +23,7 @@ function compare(){
     classMichael.style.backgroundColor = 'hsl(274deg 47% 24%)'
     classMichael.style.color = ' #FFFF'
 
-    getSub.innerHTML = "PL est devant"
+    getSub.innerHTML = "PL est en tête de ce championnat"
 
 
 
@@ -34,7 +34,7 @@ function compare(){
     classMichael.style.backgroundColor = '#EABF4F'
     classMichael.style.color = ' #4B4452'
 
-    getSub.innerHTML = "Michaël est devant"
+    getSub.innerHTML = "Michaël est en tête de ce championnat"
 
 
 
@@ -45,7 +45,7 @@ function compare(){
     classPl.style.color = '##4B4452'
     const date = new Date()
 
-    getSub.innerHTML = `Une parfaite égalité dans ce championnat au ${date}`
+    getSub.innerHTML = "Une parfaite égalité dans ce championnat"
 
 
   }
