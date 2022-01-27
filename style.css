@@ -100,11 +100,12 @@ body {
 }
 
 .fcgb .rank {
-  background-color: #4B4452;
-  color: white;
+  background-color: #EABF4F;
+  color: #4B4452;
 }
 .fcgb.win .score {
-  color: #c00048;
+  color: #EABF4F;
+  
 }
 .fcgb.win .record {
   color: white;
@@ -116,7 +117,7 @@ body {
   color: #4B4452;
 }
 .om.win .score {
-  color: #EABF4F;
+  color: #c00048;
 }
 .om.win .record {
   color: white;
