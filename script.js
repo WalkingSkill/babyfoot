@@ -43,9 +43,9 @@ function compare(){
     classPl.style.backgroundColor = '##EABF4F'
     classMichael.style.color = ' ##4B4452'
     classPl.style.color = '##4B4452'
-    const date = new Date()
+    const date = new Date().slice(30)
 
-    getSub.innerHTML = "Une parfaite égalité dans ce championnat"
+    getSub.innerHTML = `Une parfaite égalité dans ce championnat ${date}`
 
 
   }
